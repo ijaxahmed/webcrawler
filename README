@@ -1,0 +1,26 @@
+Release Note
+
+Version:1.0
+
+WebCrawler crawl through web url source code and extract URLS to the given Limit. When application run user has to provide following inputs
+
+- URL: URL to crawl
+- Crawler Limit: Number of URL to be extracted. User has following options to enter
+	- d: for default limit which is 1000
+	- number: any number for new limit e.g. 10, 100, 88, 1000 etc
+	- y: for exit
+
+
+-Source code: is packaged in WebCrawler folder (a jave Project)
+
+-Output: output shown on the console as well as saved in output.txt placed at WebCrawler\output folder
+
+-Log: Log file generated in project (WebCrawler\loging.log) dir
+
+-DOC: Documentation saved at WebCrawler\doc folder
+
+
+Dependency:
+To run the project include following dependencies
+- Log4j.jar (WebCrawler\lib), However already present in project lib folder
+

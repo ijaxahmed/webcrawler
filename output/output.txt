@@ -1,0 +1,10 @@
+http://www.w3.org/1999/xhtml
+http://ogp.me/ns#
+http://www.facebook.com/2008/fbml
+http://news.de.msn.com/?ocid=jlst;icon-uri=http://db3.stb.s-msn.com/i/EC/FA6946226F21BD7E8F75BBFA03146.ico
+http://unterhaltung.de.msn.com/?ocid=jlst;icon-uri=http://db3.stb.s-msn.com/i/EC/FA6946226F21BD7E8F75BBFA03146.ico
+http://video.de.msn.com/?ocid=jlst;icon-uri=http://db3.stb.s-msn.com/i/EC/FA6946226F21BD7E8F75BBFA03146.ico
+http://lifestyle.de.msn.com/?ocid=jlst;icon-uri=http://db3.stb.s-msn.com/i/EC/FA6946226F21BD7E8F75BBFA03146.ico
+http://sport.de.msn.com/?ocid=jlst;icon-uri=http://db3.stb.s-msn.com/i/EC/FA6946226F21BD7E8F75BBFA03146.ico
+http://db2.stb.s-msn.com/i/EC/FA6946226F21BD7E8F75BBFA03146.ico
+http://www.icra.org/ratingsv02.html&quot
